@@ -18,7 +18,7 @@ L’artiste a entraîné une IA avec des images de sols forestiers. Les images g
 L’œuvre propose ainsi une expérience immersive où humains, machines et forêts interagissent, invitant à repenser notre relation à la technologie et au vivant.
 
 ### Type alimentation
-le type d'alimentation est électrique. Il y a des câbles bancher à un ordianteur , une prise murale. En gros, Il n’y a pas d’alimentation mécanique ou autonome, le dispositif doit avoir du courant électrique.
+Le type d'alimentation est électrique. Il y a des câbles bancher à un ordianteur , une prise murale. En gros, Il n’y a pas d’alimentation mécanique ou autonome, le dispositif doit avoir du courant électrique.
 
 ### Mise en espace
 
@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/a68c2819-44b1-4879-9e0a-00815ef11474
 Ce que j'ai vécu: tout d'abord c'était troublant parce que je ne comprenais pas comment les ondes dwe la méditation puissent créer des images donc, je me suis prêter aux jeux et j'ai essayer de rester le plus calme possible pour voir s'il a des changements dans 
 les shémas d'images
 ### ce qui m'a plu
-entre les 4 oeuvres c'est celle-la qui m'a le plus interressé , car je trouve que le mix de l'IA et de l'interactivité / l'expérience vécue est bien équilibré , La source des images ont été pris Schneider , donc il y a un démarche artistique un peu plus poussé 
+Entre les 4 oeuvres c'est celle-la qui m'a le plus interressé , car je trouve que le mix de l'IA et de l'interactivité / l'expérience vécue est bien équilibré , La source des images ont été pris Schneider , donc il y a un démarche artistique un peu plus poussé 
 que de simplement dire à l'IA fais mois des images avec un prompt ( c'est mon avis ) , c'Est ce qui m'a plus plus.
 ### Ce qui m'a moins plus 
-plutot ce que jaurais preferer c'est qu'on soit dans un endroit un peu plus isoler pour faire cette experience car on doit rester zen ( de ce que j'ai compris ) mais avec l'ambiance c'etai complqué . Donc j'ai l'impression que l'experience n'est pas poussé à son paroxysme.
+Plutot ce que jaurais preferer c'est qu'on soit dans un endroit un peu plus isoler pour faire cette experience car on doit rester zen ( de ce que j'ai compris ) mais avec l'ambiance c'etai complqué . Donc j'ai l'impression que l'experience n'est pas poussé à son paroxysme.
