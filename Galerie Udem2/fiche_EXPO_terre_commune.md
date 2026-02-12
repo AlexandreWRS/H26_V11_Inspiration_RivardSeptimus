@@ -55,7 +55,7 @@ Avec les informations données (cartel + photo), on peut identifier les **compos
 5. Vidéoprojection immersive
 6. Interaction homme–machine
 
-L’œuvre combine donc art numérique, biofeedback (EEG) et installation interactive.
+> L’œuvre combine donc art numérique, biofeedback (EEG) et installation interactive.
 
 ### Éléments nécéssaire à la mise en exposttion
 ce qu'il faut absolument comme élément c'est d'un casque EEG , d'un ordinateur , des visuels généré par l'IA , d'un vidéoprojection et pour finir d'un " latent du modèle StyleGAN "
