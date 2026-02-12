@@ -50,7 +50,7 @@ Avec les informations données (cartel + photo), on peut identifier les **compos
 9. d'un banc pour essayere de rester zen
     
 ![91e2a251-f603-4526-8fdf-b753eca22234] 
-(https://github.com/user-attachments/assets/24dc288d-1651-49b1-b87e-fd695967f4fe)
+
 
 ### Techniques utilisées
 <img width="388" height="487" alt="image" src="https://github.com/user-attachments/assets/541a5a44-d9b9-46eb-ad51-cd74a183e144" />
