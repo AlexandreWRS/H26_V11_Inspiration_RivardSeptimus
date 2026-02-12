@@ -19,7 +19,7 @@
 ### Éléments nécéssaire à la mise en exposttion
 
 ### Expérience vécue
-
+Ce que j'ai vécu: tout d'abord c'était troublant parce que je ne comprenais pas comment c'était possible c'est ce qui m'a fais me questionner et m'
 ### ce qui m'a plu
 
 ### Ce qui m'a moins plus 
