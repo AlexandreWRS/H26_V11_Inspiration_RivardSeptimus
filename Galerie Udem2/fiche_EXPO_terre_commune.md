@@ -45,7 +45,7 @@ Avec les informations données (cartel + photo), on peut identifier les **compos
 9. d'un banc pour essayere de rester zen
     
 ![91e2a251-f603-4526-8fdf-b753eca22234](https://github.com/user-attachments/assets/24dc288d-1651-49b1-b87e-fd695967f4fe)
-> cette video montre ce que le logiciel fais pour créer des images
+
 ### Techniques utilisées
 <img width="388" height="487" alt="image" src="https://github.com/user-attachments/assets/541a5a44-d9b9-46eb-ad51-cd74a183e144" />
 
@@ -64,7 +64,7 @@ c'est élément sont indispensables
 
 ### Expérience vécue
 https://github.com/user-attachments/assets/a68c2819-44b1-4879-9e0a-00815ef11474
-
+>cette vidéo montre comment le logiciel procède pour réaliser les images 
 Ce que j'ai vécu: tout d'abord c'était troublant parce que je ne comprenais pas comment les ondes dwe la méditation puissent créer des images donc, je me suis prêter aux jeux et j'ai essayer de rester le plus calme possible pour voir s'il a des changements dans 
 les shémas d'images
 ### ce qui m'a plu
