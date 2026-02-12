@@ -50,7 +50,7 @@ Les éléments techniques (ordinateur, câbles, panneau) restent apparents, soul
 
 ### Techniques utilisées
 <img width="388" height="487" alt="image" src="https://github.com/user-attachments/assets/541a5a44-d9b9-46eb-ad51-cd74a183e144" />
-> ceci se met sur le front et capte des ondes de "méditation"
+>ceci se met sur le front et capte des ondes de "méditation"
 
 1. Intelligence artificielle générative
 2. Collecte et traitement de données visuelles (images de sols)
@@ -60,7 +60,7 @@ Les éléments techniques (ordinateur, câbles, panneau) restent apparents, soul
 6. Interaction homme–machine
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/dd5354b3-6518-46f9-a923-ec26b25f7ab3" />
 
-> L’œuvre combine donc art numérique, biofeedback (EEG) et installation interactive.
+L’œuvre combine donc art numérique, biofeedback (EEG) et installation interactive.
 
 ### Éléments nécéssaire à la mise en exposttion
 ce qu'il faut absolument comme élément c'est d'un casque EEG , d'un ordinateur , des visuels généré par l'IA , d'un vidéoprojection et pour finir d'un " latent du modèle StyleGAN "
