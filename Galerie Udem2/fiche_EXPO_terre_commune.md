@@ -27,7 +27,8 @@ L’installation est présentée dans un espace d’exposition sobre et épuré.
 Au centre de la salle, un participant est assis sur un dispositif composé d’une structure métallique et d’un écran, relié par des câbles visibles au sol. Face à lui, une grande projection murale occupe presque toute la surface du mur. L’image générée, dense et mouvante, crée un champ visuel immersif.
 Les éléments techniques (ordinateur, câbles, panneau) restent apparents, soulignant le lien entre corps, machine et image. L’espace est organisé frontalement : le spectateur, placé au centre, fait directement face à la projection, tandis que les autres visiteurs circulent autour, observant l’interaction en cours.
 
-![9c26b9a4-e31b-4b8d-8514-18821ddba950]
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/efe13063-a706-4694-a788-3d4c2e04a89c" />
+
 (https://github.com/user-attachments/assets/2ec3a0f6-4d08-43ee-9ccc-82fed7dace83)
 
 <img width="844" height="513" alt="image" src="https://github.com/user-attachments/assets/9664c8e1-1e55-4b10-b474-53ac4a47609d" />
