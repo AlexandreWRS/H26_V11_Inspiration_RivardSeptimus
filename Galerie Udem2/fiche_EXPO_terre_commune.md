@@ -76,5 +76,6 @@ que de simplement dire à l'IA fais mois des images avec un prompt ( c'est mon a
 ### Ce qui m'a moins plus 
 Plutot ce que jaurais preferer c'est qu'on soit dans un endroit un peu plus isoler pour faire cette experience car on doit rester zen ( de ce que j'ai compris ) mais avec l'ambiance c'etai complqué . Donc j'ai l'impression que l'experience n'est pas poussé à son paroxysme.
 <br>
-### références
+
+### Références
 Tout les photos on été prise par moi
