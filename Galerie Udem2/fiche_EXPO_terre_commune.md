@@ -33,9 +33,6 @@ Les éléments techniques (ordinateur, câbles, panneau) restent apparents, soul
 <img width="844" height="513" alt="image" src="https://github.com/user-attachments/assets/9664c8e1-1e55-4b10-b474-53ac4a47609d" />
 
 
-### composantes et techniques 
-Avec les informations données (cartel + photo), on peut identifier les **composantes et techniques** suivantes :
-
 ### Composantes matérielles
 
 1. Ordinateur
