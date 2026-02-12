@@ -57,6 +57,7 @@ Les éléments techniques (ordinateur, câbles, panneau) restent apparents, soul
 4. Génération d’images en temps réel
 5. Vidéoprojection immersive
 6. Interaction homme–machine
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/dd5354b3-6518-46f9-a923-ec26b25f7ab3" />
 
 > L’œuvre combine donc art numérique, biofeedback (EEG) et installation interactive.
 
