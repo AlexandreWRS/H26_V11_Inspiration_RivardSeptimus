@@ -6,6 +6,7 @@
 
 
 ### Marion scheineider, réalisé en 2025
+![d69657e8-7962-47d5-bb93-53fc2855069f](https://github.com/user-attachments/assets/bce24a14-d02f-49a9-b338-a11c824be844)
 
 ### Description de l'oeuvre 
 
