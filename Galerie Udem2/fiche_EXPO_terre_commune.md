@@ -50,7 +50,7 @@ Les éléments techniques (ordinateur, câbles, panneau) restent apparents, soul
 
 ### Techniques utilisées
 <img width="388" height="487" alt="image" src="https://github.com/user-attachments/assets/541a5a44-d9b9-46eb-ad51-cd74a183e144" />
-
+> ceci se met sur le front et capte des ondes de "méditation" 
 1. Intelligence artificielle générative
 2. Collecte et traitement de données visuelles (images de sols)
 3. Captation de données biométriques (ondes alpha du cerveau)
