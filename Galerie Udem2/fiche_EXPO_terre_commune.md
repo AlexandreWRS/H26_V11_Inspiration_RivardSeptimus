@@ -45,7 +45,7 @@ Les éléments techniques (ordinateur, câbles, panneau) restent apparents, soul
 8. IA entraînée à partir d’images de sols forestiers
 9. d'un banc pour essayere de rester zen
     
-![91e2a251-f603-4526-8fdf-b753eca22234] 
+
 
 
 ### Techniques utilisées
