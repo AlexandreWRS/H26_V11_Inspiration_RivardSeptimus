@@ -50,5 +50,9 @@ c'est les deux car le fait que ça soit dans une sphère de 360 degrés rend le 
 Mais il ne faut pas oublier que le but premier est d'observer et d'écouter, donc le ceci est tout autant contemplatif.
 
 
+<video width="500" controls>
+  <source src="video/vu_360.mp4" type="video/mp4">
+</video>
+
 
 
