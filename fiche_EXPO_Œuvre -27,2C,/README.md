@@ -117,5 +117,5 @@ J'ai eu de la difficutlé à rentrer dans le film , je trouvais ça long. Or, je
 
 ## Ce que j'ai aimé et ce que j'ai moins aimé
 
-Comme dis plus tôt j'ai bien aimer les images et les animations 3D mais par exemple la musique et certain effets son0res mon moins plus.
+Comme dis plus tôt j'ai bien aimer les images et les animations 3D mais par exemple la musique et certain effets sonores mon moins plus.
 Globalement c'était bien, mais comme on dit ce n'est pas un *NO SKIP* 
