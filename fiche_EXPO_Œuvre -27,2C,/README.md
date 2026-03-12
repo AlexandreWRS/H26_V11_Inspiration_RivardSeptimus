@@ -45,6 +45,10 @@ L’expérience plonge le spectateur dans un voyage sensoriel où les paysages a
 
 >texte qui étais devant l'entrée de la salle, photo prise par moi
 
+## Le type d'installation est immersive et contemplative 
+c'est les deux car le fait que ça soit dans une sphère de 360 degrés rend le l'oeuvre vraiment immersif , deplus il y a des haut-parleurs autour de nous.
+Mais il ne faut pas oublier que le but premier est d'observer et d'écouter, donc le ceci est tout autant contemplatif.
+
 
 
 
