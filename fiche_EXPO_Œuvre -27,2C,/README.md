@@ -1,4 +1,4 @@
-# -27,2C
+# -27,7C
 ## Une traversée sonore au coeur de l'Artique 
 >inpsirée par l'expédition de Molécule
 <img src="photo/moi.jpg" width="600">
@@ -60,6 +60,15 @@ Mais il ne faut pas oublier que le but premier est d'observer et d'écouter, don
 ## La fonction du dispositif
 
 L’œuvre **-22,7°C** utilise des projections visuelles et du son pour créer une **expérience immersive**. Le dispositif multimédia sert de **scénographie** en transformant l’espace et en faisant imaginer au spectateur le froid et les paysages d’hiver. Il permet aussi de **mettre en valeur le thème du climat et de l’environnement**.
+
+## Mise en espace
+
+<img src="photo/croquis.jpg" width="600">
+
+>Croquis de la mise en espace
+
+Ce que vous voyez c'est un sphère , la ou que c'est écris -22,7 est le plafond , et en face est les coté se sont un mur blanc ou que les images apparaissent. les petit ovale sur les murs et le toit ,ce sont des projecteur (il yen a beacoup plus) 
+ce que vous voyez au millieu se sont des poufs.
 
 
 ## Composantes et technique de l’œuvre -22,7°C
