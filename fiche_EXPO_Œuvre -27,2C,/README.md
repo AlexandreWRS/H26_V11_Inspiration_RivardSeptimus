@@ -5,7 +5,11 @@
 
 >Photo de moi devant l'entrée de la SAT ,prise ma copine
 >
-### Visite à 17h30
+### Visite le 4 mars à 17h30
+
+<img src="photo/affiche.jpg" width="600">
+
+>photo de l'affiche, photo prise par moi
 
 ## l'exposition est temporaire
 Film de 45min sans compter la bande-annonce du début.
@@ -109,3 +113,9 @@ J'ai eu de la difficutlé à rentrer dans le film , je trouvais ça long. Or, je
 <img src="photo/fond_rouge.jpg" width="600">
 
 >Exemples d'images , trouvée sur https://hubblo.ca/227c/
+
+
+## Ce que j'ai aimé et ce que j'ai moins aimé
+
+Comme dis plus tôt j'ai bien aimer les images et les animations 3D mais par exemple la musique et certain effets son0res mon moins plus.
+Globalement c'était bien, mais comme on dit ce n'est pas un *NO SKIP* 
