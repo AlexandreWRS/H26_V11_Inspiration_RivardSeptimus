@@ -97,12 +97,15 @@ L’œuvre utilise des **projections numériques, des animations visuelles et un
 >Image montrant des poufs , mis pour le confort des specatateurs
 
 ## Expérience vécue 
-J'ai eu de la difficutlé à rentrer dans le film , je trouvais ça long. Or, je ne peux pas nier que c'etait beau les iamges qui passaient ... mais un peu moins pour la musique.
+J'ai eu de la difficutlé à rentrer dans le film , je trouvais ça long. Or, je ne peux pas nier que c'etait beau les images qui passaient ... mais un peu moins pour la musique.
 
 <img src="photo/interaction.jpg" width="600">
 
-<Photo montrant ma  copine qui regarde les images qui passent
+>Photo montrant ma copine qui regarde les images qui passent
 
 <img src="photo/glace.jpg" width="600">
 
+
 <img src="photo/fond_rouge.jpg" width="600">
+
+>Exemples d'images , trouvée sur https://hubblo.ca/227c/
