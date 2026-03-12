@@ -49,10 +49,60 @@ L’expérience plonge le spectateur dans un voyage sensoriel où les paysages a
 c'est les deux car le fait que ça soit dans une sphère de 360 degrés rend le l'oeuvre vraiment immersif , deplus il y a des haut-parleurs autour de nous.
 Mais il ne faut pas oublier que le but premier est d'observer et d'écouter, donc le ceci est tout autant contemplatif.
 
-
-<video width="500" controls>
-  <source src="video/vu_360.mp4" type="video/mp4">
-</video>
+<img src="photo/vu_large.jpg" width="600">
 
 
 
+## La fonction du dispositif
+
+L’œuvre **-22,7°C** utilise des projections visuelles et du son pour créer une **expérience immersive**. Le dispositif multimédia sert de **scénographie** en transformant l’espace et en faisant imaginer au spectateur le froid et les paysages d’hiver. Il permet aussi de **mettre en valeur le thème du climat et de l’environnement**.
+
+
+## Composantes et technique de l’œuvre -22,7°C
+
+* Projections vidéo / images numériques
+* Animation graphique
+* Musique et effets sonores
+* Espace immersif autour du public
+
+
+
+* Projection numérique (mapping ou projection 360°)
+* Animation et design visuel réalisés par Dirty Monitor
+* Son spatialisé dans le dôme de la Société des arts technologiques
+
+
+L’œuvre utilise des **projections numériques, des animations visuelles et un son immersif** pour créer un environnement autour du spectateur grâce aux technologies du dôme de la SAT.
+
+<img src="photo/haut_sphere.jpg" width="600">
+
+>Image qui montre le haut de la sphère pour démontrer les détails , et le niveau de complexiter  , photo prise par moi
+
+<img src="photo/projecteur_2.jpg" width="600">
+
+>Image montrant les projecteurs mis dans les murs, photo prise par moi
+
+
+*93 haut-parleur au total*
+
+## Éléments nécessaires à la mise en exposition:
+
+
+* Mur blanc qui forme une sphère
+* des poufs
+* un  rideau noir
+
+<img src="photo/pouf.jpg" width="600">
+
+>Image montrant des poufs , mis pour le confort des specatateurs
+
+## Expérience vécue 
+J'ai eu de la difficutlé à rentrer dans le film , je trouvais ça long. Or, je ne peux pas nier que c'etait beau les iamges qui passaient ... mais un peu moins pour la musique.
+
+<img src="photo/interaction.jpg" width="600">
+
+<Photo montrant ma  copine qui regarde les images qui passent
+
+<img src="photo/glace.jpg" width="600">
+
+<img src="photo/fond_rouge.jpg" width="600">
