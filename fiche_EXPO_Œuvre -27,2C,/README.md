@@ -1,5 +1,5 @@
 # -27,2C
-## une traversée sonore au coeur de l'Artique 
+## Une traversée sonore au coeur de l'Artique 
 >inpsirée par l'expédition de Molécule
 <img src="photo/moi.jpg" width="600">
 
@@ -33,8 +33,18 @@ Molécule, le nom de scène de Romain De La Haye, est un musicien électronique 
 Le directeur artistique est le studio Dirty Monitor, une entreprise basée en Belgique. Ce studio créatif est reconnu comme un pionnier dans la conception et la production de contenus pour le mapping vidéo, ainsi que pour différentes réalisations audiovisuelles innovantes
 
 ## Description Du film 
+
+### date de réalisation 2019
+
+
 -22.7°C est une expérience immersive inspirée de l’aventure du musicien Molécule. En 2017, il s’est isolé pendant cinq semaines à Tiniteqilaaq, au Greenland, pour enregistrer les sons de l’Arctic et créer son album -22.7°C.
 
 L’expérience plonge le spectateur dans un voyage sensoriel où les paysages arctiques, les sons naturels et des univers virtuels en 3D imaginés par Jan Kounen et Amaury La Burthe se combinent pour montrer le processus de création musical
 
-<img src="photo/description.jpg"  heigth="800" widht="900">
+<img src="photo/description_2.jpg"  widht="400">
+
+>texte qui étais devant l'entrée de la salle, photo prise par moi
+
+
+
+
