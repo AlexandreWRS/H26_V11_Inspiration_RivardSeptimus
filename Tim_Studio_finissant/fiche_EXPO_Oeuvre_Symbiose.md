@@ -15,18 +15,18 @@ J'ai visité l'exposition le 24 Fevrier et 17 Mars.
 
 Yannick Chamberland 
 
-<img src="photo/Yannick.png" width="200">
+<img src="photo/Yannick_site_symbiose.png" width="200">
 
 Benjamin Ferland
 
-<img src="photo/benjamin.png" width="200">
+<img src="photo/benjamin_site_symbiose.png" width="200">
 
 Ryan Dufault  
 
-<img src="photo/Ryan.png" width="200">
+<img src="photo/Ryan_site_symbiose.png" width="200">
 
 
 Walid Cheour 
 
-<img src="photo/Walid.png" width="200">
+<img src="photo/Walid_site_symbiose.png" width="200">
 
