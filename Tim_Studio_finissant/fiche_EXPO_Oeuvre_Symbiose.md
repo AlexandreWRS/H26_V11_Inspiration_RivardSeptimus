@@ -13,11 +13,12 @@ J'ai visité l'exposition le 24 Fevrier et 17 Mars.
 ## Équipe
 ### Ceux qui ont réalisé cette oeuvre sont: 
 
-Yannick Chamberland <img src="photo/Yannick.png" width="400">
+Yannick Chamberland <img src="photo/Yannick.png" width="200">
 
-Benjamin Ferland <img src="photo/Benjamin.png" width="400">
+Benjamin Ferland <img src="photo/Benjamin.png" width="200">
 
-Ryan Dufault <img src="photo/Ryan.png" width="400">
+Ryan Dufault <img src="photo/Ryan.png" width="200">
 
-Walid Cheour <img src="photo/Walid.png" width="400">
+
+Walid Cheour <img src="photo/Walid.png" width="200">
 
