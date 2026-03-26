@@ -18,25 +18,25 @@ Yannick Chamberland
 
 <img src="photo/Yannick_site_symbiose.png" width="200">
 
-> Photo de Yannick, trouvée sur : https://les-chimistes.github.io/symbiose/#/equipe/
+> Photo de Yannick, trouvée sur leur site : https://les-chimistes.github.io/symbiose/#/equipe/
 > 
 Benjamin Ferland
 
 <img src="photo/benjamin_site_symbiose.png" width="200">
 
->Photo de benjamin , trouvée sur : https://les-chimistes.github.io/symbiose/#/equipe/
+>Photo de benjamin , trouvée sur  leur site : https://les-chimistes.github.io/symbiose/#/equipe/
 >
 Ryan Dufault  
 
 <img src="photo/Ryan_site_symbiose.png" width="200">
 
->Photo de Ryan , trouvée sur : https://les-chimistes.github.io/symbiose/#/equipe/
+>Photo de Ryan , trouvée sur  leur site : https://les-chimistes.github.io/symbiose/#/equipe/
 >
 Walid Cheour 
 
 <img src="photo/Walid_site_symbiose.png" width="200">
 
->Photo de Walid trouvée sur: https://les-chimistes.github.io/symbiose/#/equipe/
+>Photo de Walid trouvée sur  leur site : https://les-chimistes.github.io/symbiose/#/equipe/
 >
 
 ### l'année de la réalisation du projet est 2026 
