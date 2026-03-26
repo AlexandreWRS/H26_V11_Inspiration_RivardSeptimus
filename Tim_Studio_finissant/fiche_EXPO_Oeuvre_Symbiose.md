@@ -3,6 +3,8 @@
 
 >Photo du nom de l'expostion, prise par Anne-Julie
 
+< img src="photo/moi.jpg" width="400">
+
 ## L'exposition est temporaire et réalisée en intérieur
 J'ai visité l'exposition le 24 Fevrier et 17 Mars.
 
