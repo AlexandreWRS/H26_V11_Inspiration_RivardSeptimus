@@ -69,16 +69,36 @@ Le dispositif est pour but de faire une expérience pédagoqique qui retrace les
 
 ## Composantes et techniques
 
+Je n'ai pas de photo pour chaque composant ou techinques utlisé pour ce dispositf.
+
 ### Audio
 
 - 2 haut-parleurs actifs de 5"-
 -  2 fils XLR conducteurs de 15'
 - Carte de son multi-sorties + adaptateur powerCON
 
+<img src="photo/haut_parleur.jpg" width="400">
+
+> photo du haut parleur , prise par Ahmed
+
+<img src="photo/haut-parleur_2.jpg" width="400">
+
+> photo du deuxieme haut parleur , prise par Ahmed
+
+
 ### Vidéo
 
 - 2 projecteurs Epson PowerLite 990U
 - 1 câble HDMI
+
+<img src="photo/projecteur.jpg" width="400">
+
+> phot du projecteur, prise par moi ( Alexandre)
+
+
+<img src="photo/app_projecteur.png" width="400">
+
+> photo de l'application pour lancer les projecteurs et les synchrconiser , photo sur leur site
 
 ### Lumière
 
@@ -125,6 +145,10 @@ Le dispositif est pour but de faire une expérience pédagoqique qui retrace les
 
 - Visual Studio Code / PlatformIO / Arduino IDE (Programmation des capteurs: accéléromètre, knobs, joystick)
 - Unity 3D (Scène globale, réception données)
+
+  <img src="photo/Unity.png" width="400">
+
+  > Cette photo montre commment le logiciel (Unity) fonctionne et à quoi le logicel ressemble avec leur projet dedans, photo prise sur leur site : https://les-chimistes.github.io/symbiose/#/exposition/ 
   
 ### Design graphique / Effets visuels
 
@@ -132,6 +156,11 @@ Le dispositif est pour but de faire une expérience pédagoqique qui retrace les
 - Photoshop (Textures pour le laboratoire 3D)
 - Blender/Maya (Modélisation 3D)
 - TouchDesigner (Arrière plan de la seconde projection)
+
+
+  <img src="photo/touch_designer.png" width="400">
+
+  > Photo du logiciel touch desinger , prise sur leur site
 
 ### Gestion de l'éclairage
 
@@ -162,3 +191,16 @@ ici quelques photos pour illuster les éléments nécéssaire pour que le dispos
 <img src="photo/vu_global.jpg" width="400">
 
 > Une vue global ou qu'on aperçoit un blouson pour l'immersion d'un scientifique qui joue avec des potions, photo prise par Anne-Julie
+
+## Expérience vécue
+
+Justement j'ai pris ce dispositif même s'il n'était pas parfait il prenait en compte notre satisfaction en compte , c'est un jeu qu'il faut toujours battre son score et le score des autres avec des défis en suivant un certains rythme. 
+J'ai trouvé cela vraiment bien en considérant que c'est un projet d'école donc avec un temps très limité.
+
+## Les Points fort
+
+POur revenir sur les points fort , Le fait qu'on a un objectif qui est de battre notre score précédent , alors ça rajoute de la dynamique et une envie de s'investir
+
+## Les points faibles
+
+Malheuresement , par moment c'était pas assez précis , le fait de faire retourner le vase pour verser l'eau avec un capteur , et il fallait pas la dépasser la jauge qui montrait sur l'écran,  à certain moment ce n'était pas assez précis. Si non à part ça je vois pas vraiment de problèmes.
