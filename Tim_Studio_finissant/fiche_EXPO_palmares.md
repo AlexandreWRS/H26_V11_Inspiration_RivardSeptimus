@@ -1,16 +1,32 @@
-### Mission décollage
+# Mission décollage
 
 ## l'équipe
-<img src="photo_palmares/Kaissoumi_ahmed.jpg" width="400">
+<img src="photo_palmares/kaissoumi_ahmed.jpg" width="200">
 
-Ahmed Kaissoumi
-Radhouane Kordan
-Justin Montpetit
-Thearylou Lach
-Jad Saloumi
-2. 
-3. Arbre-en-Face
-4. VOix en soi
-5. Quand les yeux se croisent
-6. Terminal
-7. Symbiose
+> photo de Ahmed Kaissoumi
+
+<img src="photo_palmares/radhouane_kordan.jpg" width="200">
+
+> Photo de Radhouane Kordan
+
+<img src="photo_palmares/Justin_Montpetit.png" width="200">
+
+> photo de Justin Montpetit
+
+<img src="photo_palmares/thearylou_lach.jpg" width="200">
+
+> photo de Thearylou Lach
+
+<img src="photo_palmares/saloumi_jad.png" width="200">
+
+ > photo de Jad Saloumi
+
+## Installation en cours (ou finale)
+
+
+
+2. Arbre-en-Face
+3. VOix en soi
+4. Quand les yeux se croisent
+5. Terminal
+6. Symbiose
