@@ -204,3 +204,17 @@ POur revenir sur les points fort , Le fait qu'on a un objectif qui est de battre
 ## Les points faibles
 
 Malheuresement , par moment c'était pas assez précis , le fait de faire retourner le vase pour verser l'eau avec un capteur , et il fallait pas la dépasser la jauge qui montrait sur l'écran,  à certain moment ce n'était pas assez précis. Si non à part ça je vois pas vraiment de problèmes.
+
+
+  <img src="photo/jouer.png" width="400">
+
+  > photo de comment on joue , prise sur leur site
+  
+  <img src="photo/jouer_2.png" width="400">
+
+  
+  > photo de comment on joue , prise sur leur site
+  
+  <img src="photo/jeu_symbiose.jpg" width="400">
+  
+  > photo de ce qu'on voit quand on joue , photo prise moi
