@@ -1,6 +1,7 @@
 ### Mission décollage
 
 ## l'équipe
+<img src="photo_palmares/Kaissoumi_ahmed.jpg" width="400">
 
 Ahmed Kaissoumi
 Radhouane Kordan
