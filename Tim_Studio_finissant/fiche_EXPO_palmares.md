@@ -1,6 +1,15 @@
-1. Mission décollage
-2. Arbre-en-Face
-3. VOix en soi
-4. Quand les yeux se croisent
-5. Terminal
-6. Symbiose
+### Mission décollage
+
+## l'équipe
+
+Ahmed Kaissoumi
+Radhouane Kordan
+Justin Montpetit
+Thearylou Lach
+Jad Saloumi
+2. 
+3. Arbre-en-Face
+4. VOix en soi
+5. Quand les yeux se croisent
+6. Terminal
+7. Symbiose
