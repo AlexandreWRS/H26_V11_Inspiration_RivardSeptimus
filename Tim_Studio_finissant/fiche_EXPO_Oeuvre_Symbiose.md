@@ -52,3 +52,17 @@ pour le cadre d'un travail de fin de programme au Cégep montmorency.
 
 Symbiose est une expérience interactive où les participants manipulent une potion chimique virtuelle. À travers différentes stations dédiées (eau, feu, poudres, tourbillon), ils doivent collaborer pour contrer des événements imprévisibles qui déstabilisent le mélange. Leur défi : préserver l’équilibre de la potion aussi longtemps que possible.
 
+## Type d'installation
+
+Le dispositif choisi est intéractif
+
+## Fonction du dispositif 
+
+Le dispositif est pour but de faire une expérience pédagoqique qui retrace les connaissances acquise durant leur techninque.
+
+## Mise en espace
+
+
+
+
+ 
