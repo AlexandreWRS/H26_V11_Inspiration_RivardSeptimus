@@ -53,7 +53,7 @@ Je vais d’abord présenter le lieu, ensuite décrire l’œuvre et son fonctio
 ---
 
 ### 5. Liens avec d’autres œuvres
-- Ressemble à d’autres expériences immersives vues en classe  
+- Ressemble à d’autres expériences immersives qui exixstee
 - Différence : ici expérience **passive** (pas interactive)  
 - Comparé aux dispositifs interactifs, moins engageant mais plus contemplatif  
 
