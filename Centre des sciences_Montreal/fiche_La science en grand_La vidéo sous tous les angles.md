@@ -25,6 +25,10 @@ Mais ceux là on aidé à la conception de la pluspart des dispositif
 
 > photo qui montre ceux qui ont financer et peut-être réalisé ce dispositif , photo prise par moi
 
+  <img src="photo/credits.jpg" width="400">
+
+  > photo montrant les crédits de tout les partenaires , photo prise par moi 
+
 ### l'année de la réalisation du projet 
 
 on ne peut pas en être sur de la date de création de ce dispositif , mais ce qu'on sait c'est que l'année d'inauguration de "EXPLORE" est 2019.
@@ -45,7 +49,7 @@ Le dispositif choisi est intéractif
 
 ## Fonction du dispositif 
 
-Le dispositif est pour but de faire une expérience pédagoqique et intéractif pour les jeunes avec des explications simples à comprendre , en utilsant des interfaces de couleurs pour que les jeunes voient ça comme un jeu et qu'ils s'investient.
+Le dispositif a pour but d’offrir une expérience pédagogique et interactive pour les jeunes, avec des explications simples à comprendre. Il utilise des interfaces colorées afin que les jeunes perçoivent l’activité comme un jeu et s’y investissent davantage.
 
 ## Mise en espace
 
@@ -55,35 +59,87 @@ Le dispositif est pour but de faire une expérience pédagoqique et intéractif 
 
 Je n'ai pas de photo pour chaque composant ou techinques utlisé pour ce dispositf.
 
+##  Composants techniques
 
+Malheuresement je n'ai pas la référence des composant , mais c'est du matériel de qualité.
+
+- **Ordinateur (unité centrale)**  
+  PC performant avec carte graphique (GPU) pour traiter les images et gérer l’interaction.
+
+  <img src="photo/ordi_cote.jpg" width="400">
+
+  > Cette photo montre l'ordinateur et ces composant , photo prise par moi
+  
+  <img src="photo/ordi_haut.jpg" width="400">
+
+   > Celle-ci montre l'ordinateur pris en plongé , photo également prise par moi
+
+- **Projecteur vidéo**  
+  Permet d’afficher les images sur une surface (mur, structure).
+  
+  <img src="photo/projecteur.jpg" width="400">
+
+  > Image du projjecteur pris de dessous, photo prise par moi 
+  
+
+- **Logiciel de projection mapping**  
+  Adapte les images aux surfaces complexes et synchronise les interactions.
+
+- **Table tactile (interface utilisateur)**  
+  Écran interactif permettant au visiteur de manipuler des éléments.
+
+    <img src="photo/ecran_petit.jpg" width="400">
+
+    > Écran nécessaire pour le projet , photo prise par moi 
+
+- **Système audio**  
+  Casques pour entendre les instructions ou les effets sonores.
+
+    <img src="photo/escabot.jpg" width="400">
+
+    > Dans cette image on peut apercevoir les écouteurs, photo prise par moi.
+
+- **Capteurs**  
+  Détectent les actions de l’utilisateur (tactile ou mouvement).
+
+- **Câblage et réseau**  
+  Connexions (HDMI, alimentation, etc.) pour relier tous les composants.
+
+
+- **écran**
+  <img src="photo/ecran_grand.jpg" width="400">
+  
+> photo prise par moi
+
+  <img src="photo/ecran_cote.jpg" width="400">
+
+  > photo montrant le grand de coté , photo prise par moi.
+  
 
  ## Les éléments nécessaire pour la mise en exposistion 
  
+Voci le seul élément que j'ai vu: 
 
+   <img src="photo/escabot.jpg" width="400"> 
+   
+   > L'escabot est utile et nécessaire vu que la cible sont les enfants, photo prise par moi
+
+    
+##  Points forts
+- Interface intuitive et facile à comprendre  
+- Expérience interactive qui capte l’attention  
+- Apprentissage ludique (on apprend en jouant)  
+- Utilisation de technologies modernes (projection, tactile)  
+- Accessible à un large public, surtout les jeunes  
+
+##  Points faibles
+- Peut être trop simplifié pour les utilisateurs avancés  
+- Compréhension parfois limitée sans explications supplémentaires  
+- Temps d’utilisation court si beaucoup de visiteurs  
+- Dépendance à la technologie (pannes possibles)  
 
 ## Expérience vécue
-
-Justement j'ai pris ce dispositif même s'il n'était pas parfait il prenait en compte notre satisfaction en compte , c'est un jeu qu'il faut toujours battre son score et le score des autres avec des défis en suivant un certains rythme. 
-J'ai trouvé cela vraiment bien en considérant que c'est un projet d'école donc avec un temps très limité.
-
-## Les Points fort
-
-POur revenir sur les points fort , Le fait qu'on a un objectif qui est de battre notre score précédent , alors ça rajoute de la dynamique et une envie de s'investir
-
-## Les points faibles
-
-Malheuresement , par moment c'était pas assez précis , le fait de faire retourner le vase pour verser l'eau avec un capteur , et il fallait pas la dépasser la jauge qui montrait sur l'écran,  à certain moment ce n'était pas assez précis. Si non à part ça je vois pas vraiment de problèmes.
-
-
-  <img src="photo/jouer.png" width="400">
-
-  > photo de comment on joue , prise sur leur site
-  
-  <img src="photo/jouer_2.png" width="400">
-
-  
-  > photo de comment on joue , prise sur leur site
-  
-  <img src="photo/jeu_symbiose.jpg" width="400">
-  
-  > photo de ce qu'on voit quand on joue , photo prise moi
+- Interaction directe avec l’installation (manipulation sur écran tactile)  
+- Sentiment de jouer tout en apprenant  
+- Compréhension visuelle du fonctionnement du projection mapping  
+- Expérience immersive et engageante  
