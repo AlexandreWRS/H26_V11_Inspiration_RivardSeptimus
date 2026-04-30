@@ -49,7 +49,7 @@ Le dispositif est pour but de faire une expérience pédagoqique et intéractif 
 
 ## Mise en espace
 
-
+<img src="photo/croquis.png" width="400">
 
 ## Composantes et techniques
 
