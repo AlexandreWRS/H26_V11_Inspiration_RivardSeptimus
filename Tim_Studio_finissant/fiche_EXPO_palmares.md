@@ -23,7 +23,7 @@
 
 <img src="photo_palmares/screen_gameplay_oignon.png" width="600">
 
-> image qui retranscris ceux que faisaient ceux d'en l'image d'en haut , photo prise sur leur site
+> image qui retranscris ce que faisaient les gens  , photo prise sur leur site
 
 ## Schéma de l'installation prévue
 
@@ -31,7 +31,7 @@
 
 > image qui montre le croquis de l'installation , photo trouvée sur leur site : https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/
 
-### J'ai adoré faire vivre cet expérience , il y avait un vrai défi et c'était amusant et jai possé beacoup de question sur les enjeux qu'ils ont eu en réalisant leur projet et ils m'ont expliqué comment ils ont fait pour connecter tout leur truc ensemble et c'était très intéressant et j'ai appris des choses que normalement je ne devrais pas savoir à mon niveau actuel. 
+### J'ai adoré vivre cette expérience , il y avait un vrai défi et c'était amusant et jai possé beacoup de question sur les enjeux qu'ils ont eu en réalisant leur projet et ils m'ont expliqué comment ils ont fait pour connecter tout leur truc ensemble et c'était très intéressant et j'ai appris des choses que normalement je ne devrais pas savoir à mon niveau actuel comme comment faire en sorte que quand tu appuis sur un bouton l'ordinateur arrive à le comprendre. 
 
 # Arbre-en-Face
 
@@ -90,9 +90,9 @@
 
 <img src="photo_palmares/croquis_Yeux.jpeg" width="600">
 
-> image du croquis du dispostif , prise sur leur site dans la section " technnique".
+> image du croquis du dispostif , prise sur leur site dans la section " technique".
 
-### Après avoir expérimenter celui-ci je ne comprenais pas vraiment c'était quoi le but , donc j'ai posé des question et c'était assez captivant donc j'en suis sorti finalement avec un bon avis. Surment parce que le visuel était vraiment beau.
+### Après avoir expérimenter celui-ci je ne comprenais pas vraiment c'était quoi le but , donc j'ai posé des questions et c'était assez captivant donc j'en suis sorti finalement avec un bon avis. Surment parce que le visuel était vraiment beau.
 
 # terminal
 
@@ -132,14 +132,14 @@
 
 <img src="photo_palmares/Croquis_ocean.png" width="600">
 
-> photo montranr le croquis , prise sur  leur site dans la section technique
+> photo montrant le croquis , prise sur  leur site dans la section technique
 
-### Celui-ci j'avais des gros doutes car c'est celui que je trouve le beau , mais l'expérience était tout de même sympa. J'aurais préférer un projet un peu plus aboutit . Hélas elle étaient que deux.
+### Celui-ci, j'avais des gros doutes car c'est celui que je trouve le moins beau , mais l'expérience était tout de même sympa. J'aurais préférer un projet un peu plus aboutit . Hélas elles étaient que deux.
 
-## Par rapport au cheminment de la formation TIM 
+## Par rapport au cheminement de la formation TIM 
 
 
-### Quand je penses au programme TIM ce que je constate c'est qu'il faut plusieurs compétences pour arriver à faire ce qu'ils ont fait par exemple : 
+### Quand je penses au programme TIM , ce que je constate c'est qu'il faut plusieurs compétences pour arriver à faire ce qu'ils ont fait par exemple : 
 
 - la Modélisation 3D
  
