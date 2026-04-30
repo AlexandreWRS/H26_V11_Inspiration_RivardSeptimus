@@ -62,7 +62,8 @@
 
 > photo de l'implantation fait en 2D , trouvée sur le site dans la section technique .
 
- ### Au début je ne comprenais pas le projet , mais dès que j'ai commmencé à 
+ ### Au début je ne comprenais pas le projet , mais dès que j'ai commmencé à m'informer sur comment ça fonctionne , par rapport au codage et commment ils font pour capturer des photos de nous ,le projet est devenue d'un seul coup passionnant.
+ 
 # Quand les yeux se croisent
 
 ## Leur site : https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/
@@ -109,6 +110,8 @@
 
 > La photo illustre le croquis du dispositif , trouvée sur leur site dans la section "technique".
 
+### Quand on rentre dans le studio l'un des premiers dispositifs qu'on remarque c'est celui-ci , mais contre tout attende ce n'est pas le plus divertissant car c'est beacoup trop répetitif. Donc, j'en ai parlé avec les créateurs et ils en étaient conscient ce qui m'a  fait changer d'avis , car enfaite ils ont été très/trop ambitieux pour le nombre de temps qu'ils avaient.
+
 # Océan Rouge
 
 ## Leur site : https://deux-intelligence.github.io/deux-neurones/#/
@@ -129,7 +132,12 @@
 
 <img src="photo_palmares/Croquis_ocean.png" width="600">
 
-> photo montranr le croquis , prise sur  leur site dans la section technique 
+> photo montranr le croquis , prise sur  leur site dans la section technique
+
+### Celui-ci j'avais des gros doutes car c'est celui que je trouve le beau , mais l'expérience était tout de même sympa. J'aurais préférer un projet un peu plus aboutit . Hélas elle étaient que deux.
+
+## Par rapport au cheminment de la formation TIM 
+
 
 ### Quand je penses au programme TIM ce que je constate c'est qu'il faut plusieurs compétences pour arriver à faire ce qu'ils ont fait par exemple : 
 
@@ -139,4 +147,9 @@
   
 - Interactivité ludique
 
+### Il y a une technique que je ne connaissais pas , qui à été utilisé sur quasiment tout les projets c'est : Pure data. Pure Data est enfaite un language qui aide à relier et contrôler des éléments ensemble audio ou vidéo qui est connecté avec le résaux ethernet.
+
+> j'ai utilisé wikipédia pour m'aider à comprendre ce que c'est " Pure Data " : https://en.wikipedia.org/wiki/Pure_Data
+
+<img src="photo_palmares/description_branchement.png" width="600">
 
