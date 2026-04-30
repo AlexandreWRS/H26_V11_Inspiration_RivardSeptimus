@@ -17,4 +17,10 @@ De plus, il joue un rôle important dans les spectacles présentés au musée. B
 
 Cette conférence m’a permis de mieux comprendre la diversité du métier de technicien multimédia. J’ai particulièrement apprécié la polyvalence du poste et l’importance des compétences techniques. Cela montre que ce domaine demande à la fois créativité et rigueur, ce qui le rend très intéressant.
 
-< img photo/"chapeau_roue.webp" /img> 
+<img src="photo/chapeau_roue.webp" width="400">
+
+> chapeau_roue.webp, photo trouvé sur leur site, montrant une activité interactive avec des enfants : https://activites.museebombardier.com/activites-scolaires/sur-les-chapeaux-de-roues/
+
+<img src="photo/stand_interactif.jpeg" width="400">
+
+> stand_interactif.jpeg , photo prise par Francois, Sylvie, montrant un station interactif dans le cadre du multimédia.
