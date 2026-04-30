@@ -2,26 +2,17 @@
 
 ## Leur site : https://o-i-g-n-o-n.github.io/Mission-decollage/#/
 
-## l'équipe
-<img src="photo_palmares/kaissoumi_ahmed.jpg" width="200">
+## L'équipe
 
-> photo de Ahmed Kaissoumi, photo prise sur leur site
+- Ahmed Kaissoumi
 
-<img src="photo_palmares/radhouane_kordan.jpg" width="200">
+- Radhouane Kordan
 
-> Photo de Radhouane Kordan, photo prise sur leur site
+-  Justin Montpetit
 
-<img src="photo_palmares/Justin_Montpetit.png" width="200">
+- Thearylou Lach
 
-> photo de Justin Montpetit, photo prise sur leur site
-
-<img src="photo_palmares/thearylou_lach.jpg" width="200">
-
-> photo de Thearylou Lach, photo prise sur leur site
-
-<img src="photo_palmares/saloumi_jad.png" width="200">
-
- > photo de Jad Saloumi , photo prise sur leur site
+- Jad Saloumi 
 
 ## Installation en cours (ou finale)
 
@@ -39,6 +30,8 @@
 <img src="photo_palmares/croquis_oignon.png" width="600">
 
 > image qui montre le croquis de l'installation , photo trouvée sur leur site : https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/
+
+### J'ai adoré faire vivre cet expérience , il y avait un vrai défi et c'était amusant et jai possé beacoup de question sur les enjeux qu'ils ont eu en réalisant leur projet et ils m'ont expliqué comment ils ont fait pour connecter tout leur truc ensemble et c'était très intéressant et j'ai appris des choses que normalement je ne devrais pas savoir à mon niveau actuel. 
 
 # Arbre-en-Face
 
@@ -69,6 +62,7 @@
 
 > photo de l'implantation fait en 2D , trouvée sur le site dans la section technique .
 
+ ### Au début je ne comprenais pas le projet , mais dès que j'ai commmencé à 
 # Quand les yeux se croisent
 
 ## Leur site : https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/
@@ -97,6 +91,8 @@
 
 > image du croquis du dispostif , prise sur leur site dans la section " technnique".
 
+### Après avoir expérimenter celui-ci je ne comprenais pas vraiment c'était quoi le but , donc j'ai posé des question et c'était assez captivant donc j'en suis sorti finalement avec un bon avis. Surment parce que le visuel était vraiment beau.
+
 # terminal
 
 ## Leur site : https://pythons-5.github.io/Terminal/#/
@@ -113,6 +109,28 @@
 
 > La photo illustre le croquis du dispositif , trouvée sur leur site dans la section "technique".
 
+# Océan Rouge
+
+## Leur site : https://deux-intelligence.github.io/deux-neurones/#/
+
+## l'équipe 
+
+- Kristy Moussally
+
+- Amira Tounekti
+
+## Installation en cours (ou finale)
+
+<img src="photo_palmares/global_ocean.jpg" width="600">
+
+> photo montrant à quoi ressemble leur dispositif
+
+## Schéma de l'installation prévue
+
+<img src="photo_palmares/Croquis_ocean.png" width="600">
+
+> photo montranr le croquis , prise sur  leur site dans la section technique 
+
 ### Quand je penses au programme TIM ce que je constate c'est qu'il faut plusieurs compétences pour arriver à faire ce qu'ils ont fait par exemple : 
 
 - la Modélisation 3D
@@ -122,6 +140,3 @@
 - Interactivité ludique
 
 
-
-5. 
-6. Symbiose
