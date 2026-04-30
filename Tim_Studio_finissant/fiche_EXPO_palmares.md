@@ -42,7 +42,7 @@
 
 # Arbre-en-Face
 
-## Leur site : [https://o-i-g-n-o-n.github.io/Mission-decollage/#/](https://mammouths.github.io/projet/#/)
+## Leur site : (https://mammouths.github.io/projet/#/)
 
 ## l'équipe:
 
@@ -59,7 +59,41 @@
 
 ## Installation en cours (ou finale)
 
-<img src="photo_palmares" width="600">
+<img src="photo_palmares/global_arbre.png" width="600">
+
+> photo de l'installation , vu global
+
+## Schéma de l'installation prévue
+
+<img src="photo_palmares/croquis_arbre_en_face.jpg" width="600">
+
+> photo de l'implantation fait en 2D , trouvée sur le site dans la section technique 
+
+# Quand les yeux se croisent
+
+## Leur site : https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/
+
+## L'équipe 
+
+- Edelwyn Ledru
+  
+- Félix Lavoie
+  
+- Jade Hébert
+  
+- Manel Yaya
+  
+- Patricia Nassif
+
+## Installation en cours (ou finale)
+
+<img src="photo_palmares/global_yeux.jpg" width="600">
+
+> Image de l'installation , vu global du dispositif
+
+## Schéma de l'installation prévue
+
+<img src="photo_palmares/croquis_Yeux.jpg" width="600">
 
 ### Quand je penses au programme TIM ce que je constate c'est qu'il faut plusieurs compétences pour arriver à faire ce qu'ils ont fait par exemple : 
 
@@ -70,7 +104,6 @@
 - Interactivité ludique
 
 
-3. VOix en soi
-4. Quand les yeux se croisent
+
 5. Terminal
 6. Symbiose
